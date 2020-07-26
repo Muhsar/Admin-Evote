@@ -102,7 +102,7 @@ class Home extends Component {
               </div>
               <div class="card-body">
                 <ul>{candidatesList}</ul>
-                <Link to="/candidates">View All Candidates →</Link>
+                <Link to="/candidatesList">View All Candidates →</Link>
               </div>
             </div>
 
