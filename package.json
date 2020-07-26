@@ -20,7 +20,8 @@
     "moment": "^2.25.3",
     "mongoose": "^5.9.14",
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "bcrypt":"*"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
