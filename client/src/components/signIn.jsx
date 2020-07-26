@@ -42,7 +42,7 @@ class Login extends Component {
                       <input className="w3-input w3-border w3-animate-input form-control-plaintext form-control" type="password" name="password" onChange={this.handleChange}  />
                     </div>
                     <hr className="w3-clear" />
-                    <input className="btn btn-outline-secondary btn-block" type="submit" value="Sign Up" />
+                    <input className="btn btn-outline-secondary btn-block" type="submit" value="Login" />
                   </form>
                 </div>
               </div>
